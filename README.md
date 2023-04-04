@@ -33,13 +33,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### Desktop
 
-![](#)
-
-![](#)
+![](./assets/images/desktop.png)
 
 #### Mobile
 
-![](#) ![](#)
+![](./assets/images/mobile-iphone.png)
+
+![](./assets/images/mobile-fold.png)
+
+#### Tablet
+
+![](./assets/images/tablet.png)
 
 ## ⌚ Recursos úteis
 
