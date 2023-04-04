@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⌚ Preview site
 
-- [Clique aqui](#)
+- [Clique aqui](https://nicoledpizetta.github.io/Relogio-Digital)
 
 ## ⌚ Screenshots
 
