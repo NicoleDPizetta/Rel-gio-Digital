@@ -9,7 +9,7 @@ Esta é uma página web com um relógio digital e data.</p>
 
 <br>
 
-## ⌚ Projetp
+## ⌚ Projeto
 
 A ideia inicial de um relógio digital foi baseada em um vídeo do YouTube no canal de
 <a href="https://github.com/Larissakich">Larissa Kich</a>.
